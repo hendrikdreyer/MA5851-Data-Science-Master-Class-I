@@ -1,6 +1,1 @@
-## First Test Repo for MA5851
-
-This repo will serve as entry point for source code genrated for Assessment 4
-
-Description:
-TBA
+﻿![](images/hn_logo.png)﻿ Hacker News, (https://news.ycombinator.com/), is a social news website focusing on computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as "anything that gratifies one's intellectual curiosity (“Hacker News,” 2019). This project investigates the effect of media headlines sentiment on user engagement, reaction and participation. NLP (Natural Language Processing) techniques are used to prepare a corpus, as harvested from the posted headlines on HN, and from there apply further sentiment and statistical analysis. 
