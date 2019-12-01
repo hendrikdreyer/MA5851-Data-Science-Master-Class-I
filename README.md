@@ -14,4 +14,4 @@ Before attempting to re-produce the investigation’s result, make sure the foll
 
 -	The above listed repository can be cloned or downloaded to disk. 
 -	The Jupyter notebook, located in the code directory, will works out-of-the-box granted you have correctly installed Spark, Java, Jupyter and the NTLK.
--	Make sure all the relevant path variables are set for Hadoop, Spark and Java in order for the runtime executable to work. For correct path variable setup, refer to the installation instructions for Java and Spark.
+-	Make sure all the relevant path variables are set for Hadoop, Spark and Java in order for the runtime executables to work. For correct path variable setup, refer to the installation instructions for Java and Spark.
