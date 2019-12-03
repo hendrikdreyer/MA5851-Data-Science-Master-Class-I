@@ -11,6 +11,7 @@ Before attempting to re-produce the investigation’s result, make sure the foll
 2)	Spark 3 for Apache Hadoop 2.7 - http://spark.apache.org/downloads.html
 3)	NLTK 3.4.5 - https://www.nltk.org/install.html
 4)	Jupyter Notebook - https://jupyter.org/install
+5)	Google Cloud Account – Create a free trial Google Cloud Account (1 year). You’ll need this to access public data in Google BigQuery, as well as import the HN posts into a cutom created BigQuery table.
 
 -	The above listed repository can be cloned or downloaded to disk. 
 -	The Jupyter notebook, located in the code directory, will works out-of-the-box granted you have correctly installed Spark, Java, Jupyter and the NTLK.
